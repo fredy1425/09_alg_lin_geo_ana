@@ -1,0 +1,9 @@
+# Archivo .gitignore para el Proyecto Académico
+
+# 1. IGNORAR EL ENTORNO CONDA LOCAL (Crucial para no    sobrecargar el repositorio)
+alg_lin_geo_ana_py311/
+
+# 2. IGNORAR ARCHIVOS DE CACHÉ Y TEMPORALES
+.ipynb_checkpoints/ # Caché de Jupyter
+__pycache__/        # Cache de Python
+*.log
