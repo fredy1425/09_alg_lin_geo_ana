@@ -7,3 +7,4 @@ alg_lin_geo_ana_py311/
 .ipynb_checkpoints/ # Caché de Jupyter
 __pycache__/        # Cache de Python
 *.log
+Create-ProjectStructure.ps1
